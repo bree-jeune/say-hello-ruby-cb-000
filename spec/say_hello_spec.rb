@@ -1,5 +1,4 @@
-def say_hello(name)
-  "Hello" #{name}
+def say_hello("Gabriela")
 end
 
 require_relative './spec_helper'
