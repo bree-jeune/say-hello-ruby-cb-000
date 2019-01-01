@@ -1,7 +1,3 @@
-def say_hello(name)
-  "Hello #{name}"
-end
-
 require_relative './spec_helper'
 
 describe "say_hello" do 
